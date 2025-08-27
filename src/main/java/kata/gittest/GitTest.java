@@ -1,6 +1,6 @@
 package kata.gittest;
 
 public class GitTest {
-//commit 2
+//commit 6
 
 }
